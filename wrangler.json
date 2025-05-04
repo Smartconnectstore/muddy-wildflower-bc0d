@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "muddy-wildflower-bc0d",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "7cebd325-c2b2-4fb4-ba56-699c762dcd7c",
+      "database_name": "muddy-wildflower-bc0d-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
